@@ -61,12 +61,12 @@
         <img src="flowiseAi.png" width="100" height="48" />
       <br>Flowise AI
     </td>
-    <td align="center" width="96">
-        <img src="MCP.png" width="65" height="65" />
-      <br>MCP
-    </td>
   </tr>
  <tr>
+    <td align="center" width="96">
+        <img src="MCP.png" width="65" height="65" />
+      MCP
+    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
       <br>Django
