@@ -137,6 +137,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&langs_count=10&theme=tokyonight&layout=compact" alt="devdodge Top Languages" />
     </td>
     <td valign="middle">
+	    <h4 align="center">Visitor's count :eyes:</h4>
       <p align="center"><img src="https://profile-counter.glitch.me/{devdodge}/count.svg" alt="devdodge :: Visitor's Count" /></p>
     </td>
   </tr>
