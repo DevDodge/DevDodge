@@ -1,5 +1,9 @@
 #  Hey there! I'm Mohamed Osama (a.k.a. DevDodge) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
-> **(Oracle Expert / Java-Focused Full-Stack Engineer / System Architect / Flowise Builder) Redefining boundaries with every line of code, I'm a tech-driven multi-skilled developer, passionate about crafting AI-enhanced systems, solving tough backend puzzles, and optimizing performance. My background as a desktop app master and AI system integrator with real-world database fluency sets me apart.**
+
+> **(`Oracle Expert` / `Full-Stack Java Developer` / `System Designer` / `Flowise AI Builder`)**
+
+> I'm a `passionate developer` who loves building smart systems that solve real problems. With years of experience in `Java`, `AI tools`, and `database design`, I enjoy turning ideas into secure, high-performance software. My background in `desktop apps`, `microservices`, and `Flowise chatbots` gives me a strong edge when working on creative and technical projects.
+
 -----
 
 <p align="center">
@@ -18,6 +22,16 @@
 - 💻 Full-stack problem solver who built solutions for cryptocurrency, government systems, and internal tools.
 - ✨ My development style mixes performance, encryption, and slick backend logic.
 - 💬 I’m very active in conversations with clients, mentoring juniors, and handling system analysis.
+
+  ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<p align="center">
+	<a href="mailto:developerdodge@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/devdodge"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/201118180845"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/devdodge/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.upwork.com/freelancers/~01e473e72dad366689"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+ <a href="https://mostaql.com/u/MohamedDodge"><img src="https://img.shields.io/badge/Mostaqel-2ea3f2?style=flat&logo=freelancer" alt="Mostaqel" /></a>
+</p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
 ## 🚀 My favorite tools and technologies ⚙️
 
@@ -103,6 +117,16 @@
 </table>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
 
+
+## 📜 Projects & Highlights
+
+- 🔐 Built a **crypto trading system** with secure database logic & encryption for clients in Thailand.
+- 📊 Delivered a complete **heart attack prediction system** using AI & Django MVC framework.
+- 🖥 Developed Java desktop systems with trial licensing, hardware security, and internationalization.
+- 🤝 Participated in and won local AI-enhanced website competitions using SEO and Google Analytics.
+- 💬 Built Flowise AI chatbot solutions for internal data queries, and integrated them with backend DBs.
+
+
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
@@ -118,14 +142,6 @@
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-## 📜 Projects & Highlights
-
-- 🔐 Built a **crypto trading system** with secure database logic & encryption for clients in Thailand.
-- 📊 Delivered a complete **heart attack prediction system** using AI & Django MVC framework.
-- 🖥 Developed Java desktop systems with trial licensing, hardware security, and internationalization.
-- 🤝 Participated in and won local AI-enhanced website competitions using SEO and Google Analytics.
-- 💬 Built Flowise AI chatbot solutions for internal data queries, and integrated them with backend DBs.
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
