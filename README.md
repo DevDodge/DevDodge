@@ -18,21 +18,7 @@
 - 💻 Full-stack problem solver who built solutions for cryptocurrency, government systems, and internal tools.
 - ✨ My development style mixes performance, encryption, and slick backend logic.
 - 💬 I’m very active in conversations with clients, mentoring juniors, and handling system analysis.
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-## 🔥 GitHub Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
-</p>
-
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
 ## 🚀 My favorite tools and technologies ⚙️
 
 > Technologies that fuel my curiosity, projects, and continuous growth.
@@ -48,7 +34,7 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
+        <img src="nodejs-1-logo-svgrepo-com.svg" width="65" height="65" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -56,7 +42,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/typescript-icon.svg" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
@@ -67,16 +53,69 @@
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=oracle" width="48" height="48" />
+    <td align="center" width="105">
+        <img src="oracle-svgrepo-com.svg" width="100" height="48" />
       <br>Oracle DB
     </td>
+    <td align="center" width="120">
+        <img src="flowiseAi.png" width="100" height="48" />
+      <br>Flowise AI
+    </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flowise" width="48" height="48" />
-      <br>Flowise
+        <img src="MCP.png" width="65" height="65" />
+      <br>MCP
     </td>
   </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <br>Git
+    </td>    
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+      <br>Rest API
+    </td>
+    <td align="center" width="115">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="48" height="48" />
+      <br>Spring Boot
+    </td>
+    <td align="center" width="115">
+        <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="48" height="48" />
+      <br>Microservices
+    </td>
+    <td align="center" width="96">
+        <img src="npm.png" width="48" height="48" />
+      <br>NPM
+    </td>
+    <td align="center" width="96">
+        <img src="jaspersoft.png" width="48" height="48" />
+      <br>Jaspersoft
+    </td>
+    <td align="center" width="145">
+        <img src="https://upload.wikimedia.org/wikipedia/fr/f/fe/SceneBuilderLogo.png" width="48" height="48" />
+      <br>Scene Builder
+    </td>
+ </tr>
 </table>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
+
+## 🔥 GitHub Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
+</p>
+
+
+
+
+
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
+
+
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
