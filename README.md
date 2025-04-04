@@ -27,6 +27,7 @@
 <p align="center">
 	<a href="mailto:developerdodge@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/devdodge"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	        <a href="https://t.me/d0dgemasr"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
 	<a href="https://wa.me/201118180845"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/devdodge/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://www.upwork.com/freelancers/~01e473e72dad366689"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
@@ -125,43 +126,27 @@
 - 🖥 Developed Java desktop systems with trial licensing, hardware security, and internationalization.
 - 🤝 Participated in and won local AI-enhanced website competitions using SEO and Google Analytics.
 - 💬 Built Flowise AI chatbot solutions for internal data queries, and integrated them with backend DBs.
-
-
 ## 🔥 GitHub Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
-</p>
+<table align="center" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
+    </td>
+    <td valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&langs_count=10&theme=tokyonight&layout=compact" alt="devdodge Top Languages" />
+    </td>
+    <td valign="middle">
+      <p align="center"><img src="https://profile-counter.glitch.me/{devdodge}/count.svg" alt="devdodge :: Visitor's Count" /></p>
+    </td>
+  </tr>
+</table>
 
 
 
 
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
-
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-## 🌱 Currently Exploring
-
-- 🔄 Advanced agentic workflows in Flowise AI.
-- 🧪 Distributed systems, RabbitMQ message queues.
-- ⚙️ Kubernetes & cloud-native container orchestration.
-- 🎓 Teaching & mentoring new developers in backend & DB design.
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
-
-## 📫 Let's connect!
-
-- 🌐 Website: [SmartD0dge.com](http://www.smartd0dge.com)
-- 📩 Email: [dodgebuisnuess@gmail.com](mailto:dodgebuisnuess@gmail.com)
-- 💼 Freelancer Platforms: Upwork & Mostaqel (Rated 4.2)
-- ☁️ Open Source Contributor
-
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=100px>
 
 ## 🐍 My GitHub Contributions
 
