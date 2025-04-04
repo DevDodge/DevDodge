@@ -1,4 +1,4 @@
-#  Hey there! I'm Mohamed Osama (a.k.a. devdodge) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
+#  Hey there! I'm Mohamed Osama (a.k.a. DevDodge) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
 > **(Oracle Expert / Java-Focused Full-Stack Engineer / System Architect / Flowise Builder) Redefining boundaries with every line of code, I'm a tech-driven multi-skilled developer, passionate about crafting AI-enhanced systems, solving tough backend puzzles, and optimizing performance. My background as a desktop app master and AI system integrator with real-world database fluency sets me apart.**
 -----
 
