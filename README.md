@@ -134,7 +134,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
     </td>
     <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&hide_progress=true" alt="devdodge Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" alt="devdodge Top Languages" />
     </td>
     <td valign="middle">
 	    <h4 align="center">Visitor's count :eyes:</h4>
