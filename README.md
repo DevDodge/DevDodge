@@ -130,9 +130,6 @@
 
 <table align="center" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=dark" alt="devdodge GitHub Streak" />
-    </td>
     <td valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&layout=donut&theme=radical" alt="devdodge Top Languages" />
     </td>
