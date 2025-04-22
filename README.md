@@ -32,7 +32,10 @@
 	<a href="https://www.linkedin.com/in/devdodge/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
  <a href="https://www.upwork.com/freelancers/~01e473e72dad366689"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
  <a href="https://mostaql.com/u/MohamedDodge"><img src="https://img.shields.io/badge/Mostaqel-2ea3f2?style=flat&logo=freelancer" alt="Mostaqel" /></a>
-	<a href="https://www.fiverr.com/mohameddodge"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr" alt="Fiverr" /></a>
+<a href="https://www.fiverr.com/mohameddodge">
+  <img src="https://img.shields.io/badge/Fiverr-FFFFFF?style=flat&logo=fiverr&logoColor=1DBF73&labelColor=1DBF73" alt="Fiverr" />
+</a>
+
 
 </p>
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
