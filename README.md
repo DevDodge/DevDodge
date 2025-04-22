@@ -33,8 +33,10 @@
  <a href="https://www.upwork.com/freelancers/~01e473e72dad366689"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
  <a href="https://mostaql.com/u/MohamedDodge"><img src="https://img.shields.io/badge/Mostaqel-2ea3f2?style=flat&logo=freelancer" alt="Mostaqel" /></a>
 <a href="https://www.fiverr.com/mohameddodge">
-  <img src="https://img.shields.io/badge/Fiverr-FFFFFF?style=flat&logo=fiverr&logoColor=1DBF73&labelColor=1DBF73" alt="Fiverr" />
+  <a href="https://www.fiverr.com/mohameddodge">
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" />
 </a>
+
 
 
 </p>
