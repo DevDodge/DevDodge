@@ -24,46 +24,17 @@
 - 💬 I’m very active in conversations with clients, mentoring juniors, and handling system analysis.
 
   ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="mailto:developerdodge@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://github.com/devdodge">
-        <img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://t.me/d0dgemasr">
-        <img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" />
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://wa.me/201118180845">
-        <img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://www.linkedin.com/in/devdodge/">
-        <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://www.upwork.com/freelancers/~01e473e72dad366689">
-        <img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" />
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://www.fiverr.com/mohameddodge">
-        <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" />
-    </a>
-</span>
-<span style="display: inline-block; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); margin: 5px;">
-    <a href="https://mostaql.com/u/MohamedDodge">
-        <img src="https://img.shields.io/badge/Mostaqel-2ea3f2?style=flat&logo=freelancer" alt="Mostaqel" />
-    </a>
-</span>
+
+	<a href="mailto:developerdodge@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/devdodge"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	        <a href="https://t.me/d0dgemasr"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+	<a href="https://wa.me/201118180845"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/devdodge/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ <a href="https://www.upwork.com/freelancers/~01e473e72dad366689"><img src="https://img.shields.io/badge/Upwork-494949?style=flat&logo=upwork" alt="UpWork" /></a>
+<a href="https://www.fiverr.com/mohameddodge">
+  <img src="https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white" alt="Fiverr" />
+</a>
+ <a href="https://mostaql.com/u/MohamedDodge"><img src="https://img.shields.io/badge/Mostaqel-2ea3f2?style=flat&logo=freelancer" alt="Mostaqel" /></a>
 
 
 
