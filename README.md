@@ -1,8 +1,8 @@
 #  Hey there! I'm Mohamed Osama (a.k.a. DevDodge) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70">
 
-> **(`Oracle Expert` / `Full-Stack Java Developer` / `System Designer` / `Flowise AI Builder`)**
+> **(`Oracle Expert` / `Full-Stack Java Developer` / `System Designer` / `DK-Company AI Builder`)**
 
-> I'm a `passionate developer` who loves building smart systems that solve real problems. With years of experience in `Java`, `AI tools`, and `database design`, I enjoy turning ideas into secure, high-performance software. My background in `desktop apps`, `microservices`, and `Flowise chatbots` gives me a strong edge when working on creative and technical projects.
+> I'm a `passionate developer` who loves building smart systems that solve real problems. With years of experience in `Java`, `AI tools`, and `database design`, I enjoy turning ideas into secure, high-performance software. My background in `desktop apps`, `microservices`, and `DK-Company chatbots` gives me a strong edge when working on creative and technical projects.
 
 -----
 
@@ -17,11 +17,11 @@
 ## 🔥 About Me
 
 - 🧠 Java Spring Boot addict, with expertise in Microservices & Dockerized architectures.
-- 🤖 AI enthusiast, worked on AI-based health prediction systems & chatbot flows using Flowise.
+- 🤖 AI enthusiast, worked on AI-based health prediction systems & chatbot flows using DK-Company.
 - 🛠 Desktop development pro with a strong foundation in Oracle DB, security, and optimization.
 - 💻 Full-stack problem solver who built solutions for cryptocurrency, government systems, and internal tools.
 - ✨ My development style mixes performance, encryption, and slick backend logic.
-- 💬 I’m very active in conversations with clients, mentoring juniors, and handling system analysis.
+- 💬 I'm very active in conversations with clients, mentoring juniors, and handling system analysis.
 
   ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
@@ -79,8 +79,8 @@
       <br>Oracle DB
     </td>
     <td align="center" width="120">
-        <img src="flowiseAi.png" width="100" height="48" />
-      <br>Flowise AI
+        <img src="DK-CompanyAi.png" width="100" height="48" />
+      <br>DK-Company AI
     </td>
   </tr>
  <tr>
@@ -131,26 +131,34 @@
 - 📊 Delivered a complete **heart attack prediction system** using AI & Django MVC framework.
 - 🖥 Developed Java desktop systems with trial licensing, hardware security, and internationalization.
 - 🤝 Participated in and won local AI-enhanced website competitions using SEO and Google Analytics.
-- 💬 Built Flowise AI chatbot solutions for internal data queries, and integrated them with backend DBs.
-## 🔥 GitHub Streak Stats
+- 💬 Built DK-Company AI chatbot solutions for internal data queries, and integrated them with backend DBs.
 
-<table align="center" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&layout=donut&theme=radical" alt="devdodge Top Languages" />
-    </td>
-    <td valign="middle">
-	    <h4 align="center">Visitor's count :eyes:</h4>
-      <p align="center"><img src="https://profile-counter.glitch.me/{devdodge}/count.svg" alt="devdodge :: Visitor's Count" /></p>
-    </td>
-  </tr>
-</table>
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
+
+## 📊 GitHub Stats & Programming Languages
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=devdodge&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="DevDodge's GitHub Stats" width="48%" /> -->
+  
+</p>
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdodge&layout=compact&theme=radical&hide_border=true&langs_count=10&exclude_repo=repo1,repo2" alt="DevDodge's Top Languages" width="48%" /> -->
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=devdodge&theme=radical&hide_border=true" alt="DevDodge's Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=devdodge&theme=radical" alt="DevDodge's Repos per Language" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=devdodge&theme=radical" alt="DevDodge's Most Commit Language" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=devdodge&theme=radical&utcOffset=2" alt="DevDodge's Productive Time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devdodge&theme=redical&hide_border=true&area=true" alt="DevDodge's Activity Graph" width="98%" />
+</p>
 
 
-
-
-
-
+<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=25px>
 
 ## 🐍 My GitHub Contributions
 
@@ -168,3 +176,9 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+---
+
+<p align="center">
+  <i>⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+</p>
